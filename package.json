@@ -1,0 +1,19 @@
+{
+  "name": "screenshot-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "screenshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeljkofilipin/screenshot-js.git"
+  },
+  "author": "Željko Filipin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeljkofilipin/screenshot-js/issues"
+  },
+  "homepage": "https://github.com/zeljkofilipin/screenshot-js#readme"
+}
