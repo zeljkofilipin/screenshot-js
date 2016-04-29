@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zeljkofilipin/screenshot-js/issues"
   },
-  "homepage": "https://github.com/zeljkofilipin/screenshot-js#readme"
+  "homepage": "https://github.com/zeljkofilipin/screenshot-js#readme",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.2"
+  }
 }
